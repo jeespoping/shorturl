@@ -1,4 +1,8 @@
-# Instalación
+#shorturl
+
+Es una página web con la funcionalidad de acortar urls 
+
+## Instalación
 
 1. Clonar el repositorio en tu carpeta de localhost (laragon o xamp)
 2. Renombrar la carpeta (opcional)
@@ -16,7 +20,7 @@
 10. Abri la aplicacion en el navegador
 11. Registrate
 
-# Librerías usadas
+## Librerías usadas
 
 - No se uso ninguna librería
 
