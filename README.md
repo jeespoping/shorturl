@@ -4,7 +4,7 @@ Es una página web con la funcionalidad de acortar urls
 
 ## Demo
 
-
+<img src="https://media.giphy.com/media/yryW8on49zE79DfafZ/giphy.gif" width="600">
 
 ## Instalación
 
