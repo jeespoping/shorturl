@@ -16,7 +16,8 @@
 10. Abri la aplicacion en el navegador
 11. Registrate
 
-# Librerias usadas
+# Librerías usadas
 
-- No se uso ninguna libreria
+- No se uso ninguna librería
+
     
